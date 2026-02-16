@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/L_CharCreate.umap"
+				"C:/Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/L_CharCreate.umap",
+				"C:/Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/Art/Materials/M_DarkRoom.uasset"
 			]
 		}
 	]
