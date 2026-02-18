@@ -2336,3 +2336,889 @@ Script Stack (0 frames) :
 [2026.02.18-08.23.43:682][ 75]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.18-08.23.43:682][ 75]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.18-08.23.43:683][ 75]AssetCheck: /Game/UI/WBP_CharCreate Validating asset
+[2026.02.18-08.25.49:101][842]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_ClassDescription.WBP_ClassDescription
+[2026.02.18-08.25.49:102][842]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_86
+[2026.02.18-08.25.49:109][842]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_87
+[2026.02.18-08.25.59:462][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.02.18-08.26.00:170][444]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.26.00:235][444]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_ClassDescription] ([2] browsable assets)...
+[2026.02.18-08.26.00:238][444]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_ClassDescription.WBP_ClassDescription]
+[2026.02.18-08.26.00:238][444]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_ClassDescription]
+[2026.02.18-08.26.00:238][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_ClassDescription" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_ClassDescription.uasset" SILENT=true
+[2026.02.18-08.26.00:251][444]LogSavePackage: Moving output files for package: /Game/UI/WBP_ClassDescription
+[2026.02.18-08.26.00:251][444]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_ClassDescription84903E124D477A68E2B09BBA2F6C7FD9.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_ClassDescription.uasset'
+[2026.02.18-08.26.00:261][444]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.027 ms (total: 2.71 sec)
+[2026.02.18-08.26.00:322][444]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.26.00:323][444]LogContentValidation: Enabled validators:
+[2026.02.18-08.26.00:323][444]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.26.00:323][444]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.26.00:323][444]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.26.00:323][444]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.26.00:323][444]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.26.00:323][444]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.26.00:323][444]AssetCheck: /Game/UI/WBP_ClassDescription Validating asset
+[2026.02.18-08.26.01:183][494]LogWorld: UWorld::CleanupWorld for World_87, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.26.01:183][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.26.01:192][494]LogWorld: UWorld::CleanupWorld for World_86, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.26.01:192][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.26.01:261][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.02.18-08.26.02:056][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.02.18-08.26.02:953][572]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.26.03:006][572]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_ClassHeader] ([2] browsable assets)...
+[2026.02.18-08.26.03:009][572]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_ClassHeader.WBP_ClassHeader]
+[2026.02.18-08.26.03:009][572]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_ClassHeader]
+[2026.02.18-08.26.03:009][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_ClassHeader" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_ClassHeader.uasset" SILENT=true
+[2026.02.18-08.26.03:022][572]LogSavePackage: Moving output files for package: /Game/UI/WBP_ClassHeader
+[2026.02.18-08.26.03:022][572]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_ClassHeaderD8C1B9864094DCAAC8838C8B0188B987.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_ClassHeader.uasset'
+[2026.02.18-08.26.03:030][572]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.775 ms (total: 2.78 sec)
+[2026.02.18-08.26.03:098][572]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.26.03:098][572]LogContentValidation: Enabled validators:
+[2026.02.18-08.26.03:098][572]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.26.03:098][572]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.26.03:098][572]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.26.03:098][572]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.26.03:098][572]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.26.03:098][572]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.26.03:099][572]AssetCheck: /Game/UI/WBP_ClassHeader Validating asset
+[2026.02.18-08.26.03:976][621]LogWorld: UWorld::CleanupWorld for World_79, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.26.03:976][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.26.03:986][621]LogWorld: UWorld::CleanupWorld for World_78, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.26.03:986][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.26.04:046][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2026.02.18-08.26.14:201][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.02.18-08.26.15:209][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.26.15:273][920]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_CharCreate] ([2] browsable assets)...
+[2026.02.18-08.26.15:277][920]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_CharCreate.WBP_CharCreate]
+[2026.02.18-08.26.15:277][920]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_CharCreate]
+[2026.02.18-08.26.15:277][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_CharCreate" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_CharCreate.uasset" SILENT=true
+[2026.02.18-08.26.15:293][920]LogSavePackage: Moving output files for package: /Game/UI/WBP_CharCreate
+[2026.02.18-08.26.15:293][920]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_CharCreateEABBDE034E38FA0D23C969B5FAF74495.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_CharCreate.uasset'
+[2026.02.18-08.26.15:303][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.992 ms (total: 2.88 sec)
+[2026.02.18-08.26.15:373][920]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.26.15:373][920]LogContentValidation: Enabled validators:
+[2026.02.18-08.26.15:373][920]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.26.15:373][920]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.26.15:373][920]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.26.15:373][920]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.26.15:373][920]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.26.15:373][920]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.26.15:375][920]AssetCheck: /Game/UI/WBP_CharCreate Validating asset
+[2026.02.18-08.26.47:519][824]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2885.352051
+[2026.02.18-08.26.47:703][835]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-08.26.47:703][835]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2885.519043, Update Interval: 353.006989
+[2026.02.18-08.27.29:117][314]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.02.18-08.27.29:892][345]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.27.29:956][345]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_CharCreate] ([2] browsable assets)...
+[2026.02.18-08.27.29:959][345]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_CharCreate.WBP_CharCreate]
+[2026.02.18-08.27.29:959][345]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_CharCreate]
+[2026.02.18-08.27.29:959][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_CharCreate" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_CharCreate.uasset" SILENT=true
+[2026.02.18-08.27.29:980][345]LogSavePackage: Moving output files for package: /Game/UI/WBP_CharCreate
+[2026.02.18-08.27.29:981][345]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_CharCreateF686822A46B8A10465F57797987D5643.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_CharCreate.uasset'
+[2026.02.18-08.27.29:990][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 97.622 ms (total: 2.98 sec)
+[2026.02.18-08.27.30:055][345]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.27.30:055][345]LogContentValidation: Enabled validators:
+[2026.02.18-08.27.30:055][345]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.27.30:055][345]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.27.30:055][345]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.27.30:055][345]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.27.30:055][345]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.27.30:055][345]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.27.30:057][345]AssetCheck: /Game/UI/WBP_CharCreate Validating asset
+[2026.02.18-08.27.30:774][388]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.02.18-08.27.30:785][388]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.18-08.27.30:785][388]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LV_CharCreate
+[2026.02.18-08.27.30:787][388]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002232s)
+[2026.02.18-08.27.30:787][388]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LV_CharCreate.LV_CharCreate to /Game/UEDPIE_0_LV_CharCreate.LV_CharCreate (0.002268s)
+[2026.02.18-08.27.30:813][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.02.18-08.27.30:818][388]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_CharCreate
+[2026.02.18-08.27.30:819][388]LogPlayLevel: PIE: World Init took: (0.001745s)
+[2026.02.18-08.27.30:820][388]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.02.18-08.27.30:820][388]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.18-08.27.30:820][388]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.18-08.27.30:820][388]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.18-08.27.30:820][388]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.18-08.27.30:820][388]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.18-08.27.30:820][388]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.18-08.27.30:820][388]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.18-08.27.30:820][388]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.18-08.27.30:820][388]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.18-08.27.30:820][388]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.18-08.27.30:820][388]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.18-08.27.30:822][388]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.18-08.27.30:863][388]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.18-08.27.30:863][388]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.18-08.27.30:863][388]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.18-08.27.30:863][388]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.18-08.27.30:865][388]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.02.18-08.27.30:865][388]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.02.18-08.27.30:867][388]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.02.18-08.27.30:867][388]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.02.18-08.27.30:867][388]LogInit: FAudioDevice initialized with ID 6.
+[2026.02.18-08.27.30:867][388]LogAudio: Display: Audio Device (ID: 6) registered with world 'LV_CharCreate'.
+[2026.02.18-08.27.30:867][388]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.02.18-08.27.30:940][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.18-08.27.30:940][388]LogLoad: Game class is 'GameModeBase'
+[2026.02.18-08.27.30:942][388]LogWorld: Bringing World /Game/UEDPIE_0_LV_CharCreate.LV_CharCreate up for play (max tick rate 60) at 2026.02.18-00.27.30
+[2026.02.18-08.27.30:942][388]LogWorld: Bringing up level for play took: 0.002584
+[2026.02.18-08.27.30:947][388]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2026.02.18-08.27.30:948][388]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.02.18-08.27.30:955][388]PIE: Server logged in
+[2026.02.18-08.27.30:957][388]PIE: Play in editor total start time 0.173 seconds.
+[2026.02.18-08.27.31:031][389]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.18-08.27.34:135][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.18-08.27.34:135][553]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LV_CharCreate
+[2026.02.18-08.27.34:135][553]LogSlate: Window 'CharCreate Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.02.18-08.27.34:137][553]LogWorld: UWorld::CleanupWorld for LV_CharCreate, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.27.34:138][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.27.34:138][553]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.18-08.27.34:145][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.27.34:179][553]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.18-08.27.34:179][553]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.02.18-08.27.34:179][553]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.02.18-08.27.34:181][553]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.02.18-08.27.34:190][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.02.18-08.27.34:221][554]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2026.02.18-08.27.39:133][843]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2026.02.18-08.27.39:143][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.18-08.27.39:143][843]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_LV_CharCreate
+[2026.02.18-08.27.39:145][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002126s)
+[2026.02.18-08.27.39:145][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LV_CharCreate.LV_CharCreate to /Game/UEDPIE_0_LV_CharCreate.LV_CharCreate (0.002160s)
+[2026.02.18-08.27.39:176][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.02.18-08.27.39:177][843]LogChaosDD: Creating Chaos Debug Draw Scene for world LV_CharCreate
+[2026.02.18-08.27.39:178][843]LogPlayLevel: PIE: World Init took: (0.001664s)
+[2026.02.18-08.27.39:180][843]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.02.18-08.27.39:180][843]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.18-08.27.39:180][843]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.18-08.27.39:180][843]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.18-08.27.39:180][843]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.18-08.27.39:180][843]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.18-08.27.39:180][843]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.18-08.27.39:180][843]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.18-08.27.39:180][843]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.18-08.27.39:180][843]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.18-08.27.39:180][843]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.18-08.27.39:180][843]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.18-08.27.39:183][843]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.18-08.27.39:216][843]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.02.18-08.27.39:217][843]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.18-08.27.39:217][843]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.18-08.27.39:217][843]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.18-08.27.39:217][843]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.02.18-08.27.39:217][843]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.02.18-08.27.39:220][843]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.02.18-08.27.39:220][843]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.02.18-08.27.39:220][843]LogInit: FAudioDevice initialized with ID 7.
+[2026.02.18-08.27.39:220][843]LogAudio: Display: Audio Device (ID: 7) registered with world 'LV_CharCreate'.
+[2026.02.18-08.27.39:220][843]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.02.18-08.27.39:281][843]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.18-08.27.39:281][843]LogLoad: Game class is 'GameModeBase'
+[2026.02.18-08.27.39:282][843]LogWorld: Bringing World /Game/UEDPIE_0_LV_CharCreate.LV_CharCreate up for play (max tick rate 60) at 2026.02.18-00.27.39
+[2026.02.18-08.27.39:283][843]LogWorld: Bringing up level for play took: 0.001956
+[2026.02.18-08.27.39:287][843]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2026.02.18-08.27.39:287][843]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2026.02.18-08.27.39:293][843]PIE: Server logged in
+[2026.02.18-08.27.39:296][843]PIE: Play in editor total start time 0.153 seconds.
+[2026.02.18-08.27.39:366][844]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.18-08.27.42:935][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.18-08.27.42:935][ 36]LogWorld: BeginTearingDown for /Game/UEDPIE_0_LV_CharCreate
+[2026.02.18-08.27.42:935][ 36]LogSlate: Window 'CharCreate Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2026.02.18-08.27.42:955][ 36]LogWorld: UWorld::CleanupWorld for LV_CharCreate, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.27.42:956][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.27.42:958][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.18-08.27.42:966][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.27.43:004][ 36]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.02.18-08.27.43:004][ 36]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.02.18-08.27.43:006][ 36]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.02.18-08.27.43:014][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.02.18-08.27.43:044][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2026.02.18-08.27.55:300][755]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_ClassDescription.WBP_ClassDescription
+[2026.02.18-08.27.55:300][755]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_96
+[2026.02.18-08.27.55:307][755]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_97
+[2026.02.18-08.28.19:184][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.02.18-08.28.19:666][138]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.28.19:728][138]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_ClassDescription] ([2] browsable assets)...
+[2026.02.18-08.28.19:731][138]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_ClassDescription.WBP_ClassDescription]
+[2026.02.18-08.28.19:731][138]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_ClassDescription]
+[2026.02.18-08.28.19:731][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_ClassDescription" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_ClassDescription.uasset" SILENT=true
+[2026.02.18-08.28.19:743][138]LogSavePackage: Moving output files for package: /Game/UI/WBP_ClassDescription
+[2026.02.18-08.28.19:744][138]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_ClassDescription7388233B48C9954E238066ADFA33404F.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_ClassDescription.uasset'
+[2026.02.18-08.28.19:753][138]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.217 ms (total: 3.06 sec)
+[2026.02.18-08.28.19:818][138]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.28.19:818][138]LogContentValidation: Enabled validators:
+[2026.02.18-08.28.19:818][138]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.28.19:818][138]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.28.19:818][138]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.28.19:818][138]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.28.19:818][138]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.28.19:818][138]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.28.19:818][138]AssetCheck: /Game/UI/WBP_ClassDescription Validating asset
+[2026.02.18-08.28.20:862][199]LogWorld: UWorld::CleanupWorld for World_97, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.28.20:862][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.28.20:871][199]LogWorld: UWorld::CleanupWorld for World_96, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.28.20:871][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.28.20:940][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2026.02.18-08.28.56:320][287]LogEditorTransaction: Undo Edit X
+[2026.02.18-08.30.00:791][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.02.18-08.30.01:695][661]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.30.01:760][661]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_CharCreate] ([2] browsable assets)...
+[2026.02.18-08.30.01:764][661]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_CharCreate.WBP_CharCreate]
+[2026.02.18-08.30.01:764][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_CharCreate]
+[2026.02.18-08.30.01:764][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_CharCreate" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_CharCreate.uasset" SILENT=true
+[2026.02.18-08.30.01:781][661]LogSavePackage: Moving output files for package: /Game/UI/WBP_CharCreate
+[2026.02.18-08.30.01:781][661]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_CharCreate336B426F444D595DEB14F7941169E749.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_CharCreate.uasset'
+[2026.02.18-08.30.01:791][661]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.400 ms (total: 3.16 sec)
+[2026.02.18-08.30.01:853][661]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.30.01:853][661]LogContentValidation: Enabled validators:
+[2026.02.18-08.30.01:853][661]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.30.01:853][661]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.30.01:853][661]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.30.01:853][661]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.30.01:853][661]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.30.01:853][661]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.30.01:855][661]AssetCheck: /Game/UI/WBP_CharCreate Validating asset
+[2026.02.18-08.30.26:115][554]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.02.18-08.30.26:124][554]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.02.18-08.30.26:132][554]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.02.18-08.30.26:143][555]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.02.18-08.30.48:335][887]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_ClassDetail
+[2026.02.18-08.30.48:343][887]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.02.18-08.30.50:642][ 20]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_ClassDetail.WBP_ClassDetail
+[2026.02.18-08.30.50:642][ 20]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_102
+[2026.02.18-08.30.50:649][ 20]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_103
+[2026.02.18-08.30.53:824][171]LogSlate: Window 'WBP_ClassDetail' being destroyed
+[2026.02.18-08.31.51:988][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.02.18-08.31.52:891][318]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.31.52:955][318]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_ClassDetail] ([2] browsable assets)...
+[2026.02.18-08.31.52:959][318]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_ClassDetail.WBP_ClassDetail]
+[2026.02.18-08.31.52:959][318]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_ClassDetail]
+[2026.02.18-08.31.52:959][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_ClassDetail" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_ClassDetail.uasset" SILENT=true
+[2026.02.18-08.31.52:973][318]LogSavePackage: Moving output files for package: /Game/UI/WBP_ClassDetail
+[2026.02.18-08.31.52:973][318]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_ClassDetailF45D2C80423C74C25A53D591472850BB.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_ClassDetail.uasset'
+[2026.02.18-08.31.52:986][318]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.164 ms (total: 3.26 sec)
+[2026.02.18-08.31.53:047][318]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.31.53:047][318]LogContentValidation: Enabled validators:
+[2026.02.18-08.31.53:047][318]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.31.53:047][318]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.31.53:047][318]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.31.53:047][318]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.31.53:047][318]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.31.53:047][318]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.31.53:047][318]AssetCheck: /Game/UI/WBP_ClassDetail Validating asset
+[2026.02.18-08.31.53:062][318]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.18-08.32.12:665][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.02.18-08.32.13:307][518]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.32.13:365][518]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_ClassDetail] ([2] browsable assets)...
+[2026.02.18-08.32.13:368][518]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_ClassDetail.WBP_ClassDetail]
+[2026.02.18-08.32.13:368][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_ClassDetail]
+[2026.02.18-08.32.13:368][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_ClassDetail" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_ClassDetail.uasset" SILENT=true
+[2026.02.18-08.32.13:381][518]LogSavePackage: Moving output files for package: /Game/UI/WBP_ClassDetail
+[2026.02.18-08.32.13:382][518]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_ClassDetailF16EAA9B4CC34F60A97D4EB2A3692370.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_ClassDetail.uasset'
+[2026.02.18-08.32.13:392][518]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.326 ms (total: 3.34 sec)
+[2026.02.18-08.32.13:447][518]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.32.13:447][518]LogContentValidation: Enabled validators:
+[2026.02.18-08.32.13:447][518]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.32.13:447][518]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.32.13:447][518]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.32.13:447][518]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.32.13:447][518]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.32.13:447][518]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.32.13:448][518]AssetCheck: /Game/UI/WBP_ClassDetail Validating asset
+[2026.02.18-08.32.14:917][603]LogWorld: UWorld::CleanupWorld for World_103, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.32.14:917][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.32.14:926][603]LogWorld: UWorld::CleanupWorld for World_102, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.32.14:926][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.32.14:981][603]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.02.18-08.32.31:636][548]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_ClassDetail.WBP_ClassDetail
+[2026.02.18-08.32.31:637][548]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_108
+[2026.02.18-08.32.31:644][548]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_109
+[2026.02.18-08.32.41:323][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.02.18-08.32.41:881][102]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.32.41:941][102]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_ClassDetail] ([2] browsable assets)...
+[2026.02.18-08.32.41:944][102]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_ClassDetail.WBP_ClassDetail]
+[2026.02.18-08.32.41:944][102]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_ClassDetail]
+[2026.02.18-08.32.41:944][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_ClassDetail" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_ClassDetail.uasset" SILENT=true
+[2026.02.18-08.32.41:956][102]LogSavePackage: Moving output files for package: /Game/UI/WBP_ClassDetail
+[2026.02.18-08.32.41:957][102]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_ClassDetailC8C234944FB66AE57947279CD4980E4C.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_ClassDetail.uasset'
+[2026.02.18-08.32.41:966][102]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.726 ms (total: 3.43 sec)
+[2026.02.18-08.32.42:026][102]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.32.42:026][102]LogContentValidation: Enabled validators:
+[2026.02.18-08.32.42:026][102]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.32.42:027][102]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.32.42:027][102]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.32.42:027][102]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.32.42:027][102]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.32.42:027][102]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.32.42:027][102]AssetCheck: /Game/UI/WBP_ClassDetail Validating asset
+[2026.02.18-08.32.43:117][164]LogWorld: UWorld::CleanupWorld for World_109, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.32.43:117][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.32.43:126][164]LogWorld: UWorld::CleanupWorld for World_108, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.32.43:126][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.32.43:194][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2026.02.18-08.33.01:955][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.02.18-08.33.19:426][132]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3277.289062
+[2026.02.18-08.33.19:427][133]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_ClassDetail.WBP_ClassDetail
+[2026.02.18-08.33.19:427][133]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_113
+[2026.02.18-08.33.19:435][133]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_114
+[2026.02.18-08.33.20:081][144]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-08.33.20:081][144]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3277.928223, Update Interval: 326.706757
+[2026.02.18-08.33.35:939][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.02.18-08.33.36:675][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.33.36:741][ 97]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_ClassDetail] ([2] browsable assets)...
+[2026.02.18-08.33.36:743][ 97]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_ClassDetail.WBP_ClassDetail]
+[2026.02.18-08.33.36:743][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_ClassDetail]
+[2026.02.18-08.33.36:743][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_ClassDetail" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_ClassDetail.uasset" SILENT=true
+[2026.02.18-08.33.36:757][ 97]LogSavePackage: Moving output files for package: /Game/UI/WBP_ClassDetail
+[2026.02.18-08.33.36:757][ 97]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_ClassDetail203537A6400A5515F1BA0F8F86CC6F02.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_ClassDetail.uasset'
+[2026.02.18-08.33.36:766][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.890 ms (total: 3.52 sec)
+[2026.02.18-08.33.36:828][ 97]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.33.36:828][ 97]LogContentValidation: Enabled validators:
+[2026.02.18-08.33.36:828][ 97]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.33.36:829][ 97]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.33.36:829][ 97]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.33.36:829][ 97]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.33.36:829][ 97]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.33.36:829][ 97]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.33.36:829][ 97]AssetCheck: /Game/UI/WBP_ClassDetail Validating asset
+[2026.02.18-08.33.41:654][371]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_ClassDescription.WBP_ClassDescription
+[2026.02.18-08.33.41:655][371]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_117
+[2026.02.18-08.33.41:662][371]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_118
+[2026.02.18-08.33.48:746][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.02.18-08.33.53:598][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.02.18-08.33.54:254][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.33.54:318][ 39]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_ClassDescription] ([2] browsable assets)...
+[2026.02.18-08.33.54:321][ 39]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_ClassDescription.WBP_ClassDescription]
+[2026.02.18-08.33.54:321][ 39]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_ClassDescription]
+[2026.02.18-08.33.54:321][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_ClassDescription" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_ClassDescription.uasset" SILENT=true
+[2026.02.18-08.33.54:333][ 39]LogSavePackage: Moving output files for package: /Game/UI/WBP_ClassDescription
+[2026.02.18-08.33.54:333][ 39]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_ClassDescription95D165E14AC81AAE07ED399E565112A7.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_ClassDescription.uasset'
+[2026.02.18-08.33.54:341][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.404 ms (total: 3.60 sec)
+[2026.02.18-08.33.54:400][ 39]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.33.54:400][ 39]LogContentValidation: Enabled validators:
+[2026.02.18-08.33.54:400][ 39]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.33.54:400][ 39]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.33.54:400][ 39]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.33.54:400][ 39]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.33.54:400][ 39]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.33.54:400][ 39]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.33.54:400][ 39]AssetCheck: /Game/UI/WBP_ClassDescription Validating asset
+[2026.02.18-08.34.28:524][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.02.18-08.34.29:395][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.34.29:457][ 49]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_CharCreate] ([2] browsable assets)...
+[2026.02.18-08.34.29:464][ 49]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_CharCreate.WBP_CharCreate]
+[2026.02.18-08.34.29:464][ 49]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_CharCreate]
+[2026.02.18-08.34.29:464][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_CharCreate" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_CharCreate.uasset" SILENT=true
+[2026.02.18-08.34.29:481][ 49]LogSavePackage: Moving output files for package: /Game/UI/WBP_CharCreate
+[2026.02.18-08.34.29:482][ 49]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_CharCreate2BB20D8B45F7B0F0B51F54A39D4787B2.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_CharCreate.uasset'
+[2026.02.18-08.34.29:493][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave took 98.007 ms (total: 3.70 sec)
+[2026.02.18-08.34.29:561][ 49]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.34.29:561][ 49]LogContentValidation: Enabled validators:
+[2026.02.18-08.34.29:561][ 49]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.34.29:561][ 49]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.34.29:561][ 49]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.34.29:561][ 49]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.34.29:561][ 49]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.34.29:561][ 49]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.34.29:564][ 49]AssetCheck: /Game/UI/WBP_CharCreate Validating asset
+[2026.02.18-08.34.31:805][182]LogWorld: UWorld::CleanupWorld for World_118, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.34.31:805][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.34.31:814][182]LogWorld: UWorld::CleanupWorld for World_117, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.34.31:814][182]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.34.31:879][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.02.18-08.34.32:879][240]LogWorld: UWorld::CleanupWorld for World_114, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.34.32:880][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.34.32:889][240]LogWorld: UWorld::CleanupWorld for World_113, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.34.32:889][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.34.32:957][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.02.18-08.37.08:400][844]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.02.18-08.37.09:207][889]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.37.09:265][889]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_CharCreate] ([2] browsable assets)...
+[2026.02.18-08.37.09:271][889]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_CharCreate.WBP_CharCreate]
+[2026.02.18-08.37.09:271][889]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_CharCreate]
+[2026.02.18-08.37.09:271][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_CharCreate" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_CharCreate.uasset" SILENT=true
+[2026.02.18-08.37.09:289][889]LogSavePackage: Moving output files for package: /Game/UI/WBP_CharCreate
+[2026.02.18-08.37.09:290][889]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_CharCreate558D84254331A84C535F37B18F0AFDCD.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_CharCreate.uasset'
+[2026.02.18-08.37.09:300][889]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.408 ms (total: 3.79 sec)
+[2026.02.18-08.37.09:365][889]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.37.09:365][889]LogContentValidation: Enabled validators:
+[2026.02.18-08.37.09:365][889]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.37.09:365][889]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.37.09:365][889]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.37.09:365][889]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.37.09:365][889]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.37.09:365][889]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.37.09:367][889]AssetCheck: /Game/UI/WBP_CharCreate Validating asset
+[2026.02.18-08.37.27:169][765]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.02.18-08.37.27:179][765]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.02.18-08.37.27:186][765]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.02.18-08.37.27:196][766]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.02.18-08.37.37:972][413]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_AbilityIcon
+[2026.02.18-08.37.37:982][413]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.02.18-08.37.41:391][606]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_AbilityIcon.WBP_AbilityIcon
+[2026.02.18-08.37.41:392][606]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_126
+[2026.02.18-08.37.41:400][606]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_127
+[2026.02.18-08.37.44:664][764]LogSlate: Window 'WBP_AbilityIcon' being destroyed
+[2026.02.18-08.38.36:050][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.02.18-08.38.37:490][902]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.38.37:558][902]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_AbilityIcon] ([2] browsable assets)...
+[2026.02.18-08.38.37:560][902]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_AbilityIcon.WBP_AbilityIcon]
+[2026.02.18-08.38.37:560][902]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_AbilityIcon]
+[2026.02.18-08.38.37:560][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_AbilityIcon" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_AbilityIcon.uasset" SILENT=true
+[2026.02.18-08.38.37:572][902]LogSavePackage: Moving output files for package: /Game/UI/WBP_AbilityIcon
+[2026.02.18-08.38.37:572][902]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_AbilityIcon071219994B1CFAD983096CABC00DE7AA.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_AbilityIcon.uasset'
+[2026.02.18-08.38.37:584][902]LogFileHelpers: InternalPromptForCheckoutAndSave took 94.248 ms (total: 3.89 sec)
+[2026.02.18-08.38.37:646][902]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.38.37:646][902]LogContentValidation: Enabled validators:
+[2026.02.18-08.38.37:646][902]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.38.37:646][902]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.38.37:646][902]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.38.37:646][902]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.38.37:646][902]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.38.37:646][902]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.38.37:647][902]AssetCheck: /Game/UI/WBP_AbilityIcon Validating asset
+[2026.02.18-08.38.37:661][902]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.18-08.38.58:385][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.02.18-08.38.59:634][835]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.38.59:684][835]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_AbilityIcon] ([2] browsable assets)...
+[2026.02.18-08.38.59:686][835]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_AbilityIcon.WBP_AbilityIcon]
+[2026.02.18-08.38.59:686][835]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_AbilityIcon]
+[2026.02.18-08.38.59:686][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_AbilityIcon" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_AbilityIcon.uasset" SILENT=true
+[2026.02.18-08.38.59:698][835]LogSavePackage: Moving output files for package: /Game/UI/WBP_AbilityIcon
+[2026.02.18-08.38.59:698][835]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_AbilityIcon894C84C745F54078AA8301B9ECCC07C2.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_AbilityIcon.uasset'
+[2026.02.18-08.38.59:708][835]LogFileHelpers: InternalPromptForCheckoutAndSave took 74.335 ms (total: 3.96 sec)
+[2026.02.18-08.38.59:776][835]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.38.59:776][835]LogContentValidation: Enabled validators:
+[2026.02.18-08.38.59:776][835]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.38.59:776][835]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.38.59:776][835]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.38.59:776][835]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.38.59:776][835]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.38.59:776][835]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.38.59:777][835]AssetCheck: /Game/UI/WBP_AbilityIcon Validating asset
+[2026.02.18-08.39.04:285][102]LogWorld: UWorld::CleanupWorld for World_127, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.39.04:285][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.39.04:294][102]LogWorld: UWorld::CleanupWorld for World_126, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.39.04:294][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.39.04:356][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.02.18-08.39.13:046][554]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.02.18-08.39.13:055][554]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.02.18-08.39.13:062][554]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.02.18-08.39.13:074][555]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.02.18-08.39.24:649][250]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_AbilitySet
+[2026.02.18-08.39.24:657][250]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.02.18-08.39.27:665][425]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_AbilitySet.WBP_AbilitySet
+[2026.02.18-08.39.27:666][425]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_132
+[2026.02.18-08.39.27:674][425]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_133
+[2026.02.18-08.39.30:502][549]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3648.369873
+[2026.02.18-08.39.30:633][557]LogSlate: Window 'WBP_AbilitySet' being destroyed
+[2026.02.18-08.39.30:704][561]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-08.39.30:704][562]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3648.555176, Update Interval: 309.888000
+[2026.02.18-08.40.13:341][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.02.18-08.40.14:182][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.40.14:243][ 97]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_AbilitySet] ([2] browsable assets)...
+[2026.02.18-08.40.14:245][ 97]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_AbilitySet.WBP_AbilitySet]
+[2026.02.18-08.40.14:245][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_AbilitySet]
+[2026.02.18-08.40.14:245][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_AbilitySet" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_AbilitySet.uasset" SILENT=true
+[2026.02.18-08.40.14:259][ 97]LogSavePackage: Moving output files for package: /Game/UI/WBP_AbilitySet
+[2026.02.18-08.40.14:259][ 97]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_AbilitySet0A4E5F174CC014A7DBEFE8BC5AB92C26.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_AbilitySet.uasset'
+[2026.02.18-08.40.14:272][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.892 ms (total: 4.05 sec)
+[2026.02.18-08.40.14:322][ 97]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.40.14:322][ 97]LogContentValidation: Enabled validators:
+[2026.02.18-08.40.14:322][ 97]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.40.14:322][ 97]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.40.14:322][ 97]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.40.14:322][ 97]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.40.14:322][ 97]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.40.14:322][ 97]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.40.14:323][ 97]AssetCheck: /Game/UI/WBP_AbilitySet Validating asset
+[2026.02.18-08.40.14:335][ 97]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.18-08.40.16:670][230]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_AbilityIcon.WBP_AbilityIcon
+[2026.02.18-08.40.16:670][230]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_136
+[2026.02.18-08.40.16:679][230]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_137
+[2026.02.18-08.40.28:677][910]LogDerivedDataCache: C:/Users/val/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.18-08.40.42:373][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.02.18-08.40.43:283][758]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.40.43:333][758]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_AbilityIcon] ([2] browsable assets)...
+[2026.02.18-08.40.43:335][758]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_AbilityIcon.WBP_AbilityIcon]
+[2026.02.18-08.40.43:335][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_AbilityIcon]
+[2026.02.18-08.40.43:335][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_AbilityIcon" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_AbilityIcon.uasset" SILENT=true
+[2026.02.18-08.40.43:347][758]LogSavePackage: Moving output files for package: /Game/UI/WBP_AbilityIcon
+[2026.02.18-08.40.43:348][758]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_AbilityIcon417602B0401FE72529D994A1A7CCD1A6.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_AbilityIcon.uasset'
+[2026.02.18-08.40.43:356][758]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.427 ms (total: 4.13 sec)
+[2026.02.18-08.40.43:415][758]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.40.43:415][758]LogContentValidation: Enabled validators:
+[2026.02.18-08.40.43:415][758]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.40.43:415][758]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.40.43:415][758]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.40.43:415][758]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.40.43:415][758]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.40.43:415][758]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.40.43:415][758]AssetCheck: /Game/UI/WBP_AbilityIcon Validating asset
+[2026.02.18-08.40.44:256][806]LogWorld: UWorld::CleanupWorld for World_137, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.40.44:256][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.40.44:266][806]LogWorld: UWorld::CleanupWorld for World_136, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.40.44:266][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.40.44:325][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.02.18-08.41.27:115][323]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_AbilityIcon.WBP_AbilityIcon
+[2026.02.18-08.41.27:116][323]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_140
+[2026.02.18-08.41.27:124][323]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_141
+[2026.02.18-08.42.19:902][367]LogEditorTransaction: Undo Move Widget
+[2026.02.18-08.42.21:902][463]LogEditorTransaction: Undo Wrap Widgets
+[2026.02.18-08.43.26:353][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.02.18-08.43.27:151][261]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.43.27:207][261]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_AbilityIcon] ([2] browsable assets)...
+[2026.02.18-08.43.27:209][261]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_AbilityIcon.WBP_AbilityIcon]
+[2026.02.18-08.43.27:209][261]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_AbilityIcon]
+[2026.02.18-08.43.27:209][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_AbilityIcon" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_AbilityIcon.uasset" SILENT=true
+[2026.02.18-08.43.27:225][261]LogSavePackage: Moving output files for package: /Game/UI/WBP_AbilityIcon
+[2026.02.18-08.43.27:225][261]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_AbilityIcon1B1962C74658A99E2B1BF1B01DA72852.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_AbilityIcon.uasset'
+[2026.02.18-08.43.27:235][261]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.451 ms (total: 4.21 sec)
+[2026.02.18-08.43.27:298][261]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.43.27:298][261]LogContentValidation: Enabled validators:
+[2026.02.18-08.43.27:298][261]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.43.27:298][261]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.43.27:298][261]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.43.27:298][261]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.43.27:298][261]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.43.27:298][261]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.43.27:298][261]AssetCheck: /Game/UI/WBP_AbilityIcon Validating asset
+[2026.02.18-08.43.28:556][333]LogWorld: UWorld::CleanupWorld for World_141, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.43.28:556][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.43.28:567][333]LogWorld: UWorld::CleanupWorld for World_140, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.43.28:567][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.43.28:633][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.02.18-08.43.34:940][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.02.18-08.43.35:523][610]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.43.35:587][610]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_AbilitySet] ([2] browsable assets)...
+[2026.02.18-08.43.35:589][610]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_AbilitySet.WBP_AbilitySet]
+[2026.02.18-08.43.35:589][610]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_AbilitySet]
+[2026.02.18-08.43.35:589][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_AbilitySet" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_AbilitySet.uasset" SILENT=true
+[2026.02.18-08.43.35:603][610]LogSavePackage: Moving output files for package: /Game/UI/WBP_AbilitySet
+[2026.02.18-08.43.35:603][610]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_AbilitySet7602EA7049AE1800280C2C9122251B98.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_AbilitySet.uasset'
+[2026.02.18-08.43.35:612][610]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.313 ms (total: 4.30 sec)
+[2026.02.18-08.43.35:680][610]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.43.35:680][610]LogContentValidation: Enabled validators:
+[2026.02.18-08.43.35:680][610]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.43.35:680][610]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.43.35:680][610]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.43.35:680][610]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.43.35:680][610]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.43.35:680][610]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.43.35:680][610]AssetCheck: /Game/UI/WBP_AbilitySet Validating asset
+[2026.02.18-08.43.36:723][669]LogWorld: UWorld::CleanupWorld for World_133, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.43.36:723][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.43.36:733][669]LogWorld: UWorld::CleanupWorld for World_132, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.43.36:733][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.43.36:796][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.02.18-08.43.44:117][ 97]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_AbilitySet.WBP_AbilitySet
+[2026.02.18-08.43.44:117][ 97]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_146
+[2026.02.18-08.43.44:125][ 97]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_147
+[2026.02.18-08.44.03:950][214]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_AbilityIcon.WBP_AbilityIcon
+[2026.02.18-08.44.03:950][214]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_148
+[2026.02.18-08.44.03:958][214]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_149
+[2026.02.18-08.44.14:934][825]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2026.02.18-08.44.16:046][874]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.44.16:116][874]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_AbilityIcon] ([2] browsable assets)...
+[2026.02.18-08.44.16:119][874]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_AbilityIcon.WBP_AbilityIcon]
+[2026.02.18-08.44.16:119][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_AbilityIcon]
+[2026.02.18-08.44.16:119][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_AbilityIcon" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_AbilityIcon.uasset" SILENT=true
+[2026.02.18-08.44.16:133][874]LogSavePackage: Moving output files for package: /Game/UI/WBP_AbilityIcon
+[2026.02.18-08.44.16:133][874]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_AbilityIcon01369C194B5EBD00C663C6BE1773246F.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_AbilityIcon.uasset'
+[2026.02.18-08.44.16:143][874]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.532 ms (total: 4.39 sec)
+[2026.02.18-08.44.16:202][874]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.44.16:202][874]LogContentValidation: Enabled validators:
+[2026.02.18-08.44.16:202][874]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.44.16:202][874]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.44.16:202][874]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.44.16:202][874]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.44.16:202][874]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.44.16:202][874]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.44.16:202][874]AssetCheck: /Game/UI/WBP_AbilityIcon Validating asset
+[2026.02.18-08.44.47:539][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.02.18-08.44.48:365][741]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.44.48:433][741]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_AbilityIcon] ([2] browsable assets)...
+[2026.02.18-08.44.48:435][741]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_AbilityIcon.WBP_AbilityIcon]
+[2026.02.18-08.44.48:435][741]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_AbilityIcon]
+[2026.02.18-08.44.48:435][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_AbilityIcon" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_AbilityIcon.uasset" SILENT=true
+[2026.02.18-08.44.48:448][741]LogSavePackage: Moving output files for package: /Game/UI/WBP_AbilityIcon
+[2026.02.18-08.44.48:449][741]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_AbilityIcon2F6F387849BC30EBB059E8A0A2D41292.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_AbilityIcon.uasset'
+[2026.02.18-08.44.48:458][741]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.941 ms (total: 4.49 sec)
+[2026.02.18-08.44.48:529][741]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.44.48:529][741]LogContentValidation: Enabled validators:
+[2026.02.18-08.44.48:529][741]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.44.48:529][741]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.44.48:529][741]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.44.48:529][741]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.44.48:529][741]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.44.48:529][741]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.44.48:530][741]AssetCheck: /Game/UI/WBP_AbilityIcon Validating asset
+[2026.02.18-08.45.05:792][729]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.45.05:852][729]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_AbilityIcon] ([2] browsable assets)...
+[2026.02.18-08.45.05:854][729]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_AbilityIcon.WBP_AbilityIcon]
+[2026.02.18-08.45.05:854][729]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_AbilityIcon]
+[2026.02.18-08.45.05:854][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_AbilityIcon" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_AbilityIcon.uasset" SILENT=true
+[2026.02.18-08.45.05:867][729]LogSavePackage: Moving output files for package: /Game/UI/WBP_AbilityIcon
+[2026.02.18-08.45.05:868][729]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_AbilityIcon768E381D4783E334D621229E9A7C79E9.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_AbilityIcon.uasset'
+[2026.02.18-08.45.05:876][729]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.269 ms (total: 4.57 sec)
+[2026.02.18-08.45.05:946][729]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.45.05:946][729]LogContentValidation: Enabled validators:
+[2026.02.18-08.45.05:946][729]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.45.05:946][729]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.45.05:946][729]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.45.05:946][729]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.45.05:946][729]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.45.05:946][729]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.45.05:946][729]AssetCheck: /Game/UI/WBP_AbilityIcon Validating asset
+[2026.02.18-08.45.29:831][123]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4007.688232
+[2026.02.18-08.45.30:014][134]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-08.45.30:014][134]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4007.854736, Update Interval: 343.888062
+[2026.02.18-08.45.35:884][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.02.18-08.45.36:466][480]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.45.36:518][480]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_AbilitySet] ([2] browsable assets)...
+[2026.02.18-08.45.36:520][480]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_AbilitySet.WBP_AbilitySet]
+[2026.02.18-08.45.36:520][480]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_AbilitySet]
+[2026.02.18-08.45.36:520][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_AbilitySet" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_AbilitySet.uasset" SILENT=true
+[2026.02.18-08.45.36:536][480]LogSavePackage: Moving output files for package: /Game/UI/WBP_AbilitySet
+[2026.02.18-08.45.36:537][480]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_AbilitySet8ABDC9AA46619AE4BF1238A50E418984.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_AbilitySet.uasset'
+[2026.02.18-08.45.36:548][480]LogFileHelpers: InternalPromptForCheckoutAndSave took 82.771 ms (total: 4.65 sec)
+[2026.02.18-08.45.36:610][480]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.45.36:610][480]LogContentValidation: Enabled validators:
+[2026.02.18-08.45.36:610][480]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.45.36:610][480]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.45.36:610][480]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.45.36:610][480]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.45.36:610][480]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.45.36:610][480]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.45.36:610][480]AssetCheck: /Game/UI/WBP_AbilitySet Validating asset
+[2026.02.18-08.45.49:871][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.02.18-08.45.50:600][272]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.45.50:647][272]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_AbilityIcon] ([2] browsable assets)...
+[2026.02.18-08.45.50:649][272]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_AbilityIcon.WBP_AbilityIcon]
+[2026.02.18-08.45.50:649][272]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_AbilityIcon]
+[2026.02.18-08.45.50:649][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_AbilityIcon" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_AbilityIcon.uasset" SILENT=true
+[2026.02.18-08.45.50:661][272]LogSavePackage: Moving output files for package: /Game/UI/WBP_AbilityIcon
+[2026.02.18-08.45.50:661][272]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_AbilityIcon3490F1A44B873CF08FDF89A6360D2A00.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_AbilityIcon.uasset'
+[2026.02.18-08.45.50:671][272]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.690 ms (total: 4.72 sec)
+[2026.02.18-08.45.50:730][272]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.45.50:730][272]LogContentValidation: Enabled validators:
+[2026.02.18-08.45.50:730][272]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.45.50:730][272]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.45.50:730][272]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.45.50:730][272]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.45.50:730][272]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.45.50:730][272]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.45.50:730][272]AssetCheck: /Game/UI/WBP_AbilityIcon Validating asset
+[2026.02.18-08.46.03:803][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.46.03:864][ 43]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_AbilityIcon] ([2] browsable assets)...
+[2026.02.18-08.46.03:866][ 43]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_AbilityIcon.WBP_AbilityIcon]
+[2026.02.18-08.46.03:866][ 43]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_AbilityIcon]
+[2026.02.18-08.46.03:866][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_AbilityIcon" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_AbilityIcon.uasset" SILENT=true
+[2026.02.18-08.46.03:879][ 43]LogSavePackage: Moving output files for package: /Game/UI/WBP_AbilityIcon
+[2026.02.18-08.46.03:879][ 43]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_AbilityIconA1150B46462A9345EF657D9F126215E5.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_AbilityIcon.uasset'
+[2026.02.18-08.46.03:889][ 43]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.430 ms (total: 4.81 sec)
+[2026.02.18-08.46.03:956][ 43]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.46.03:956][ 43]LogContentValidation: Enabled validators:
+[2026.02.18-08.46.03:956][ 43]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.46.03:956][ 43]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.46.03:956][ 43]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.46.03:956][ 43]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.46.03:956][ 43]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.46.03:956][ 43]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.46.03:956][ 43]AssetCheck: /Game/UI/WBP_AbilityIcon Validating asset
+[2026.02.18-08.46.05:526][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.02.18-08.46.06:269][153]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.46.06:330][153]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_AbilityIcon] ([2] browsable assets)...
+[2026.02.18-08.46.06:332][153]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_AbilityIcon.WBP_AbilityIcon]
+[2026.02.18-08.46.06:332][153]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_AbilityIcon]
+[2026.02.18-08.46.06:332][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_AbilityIcon" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_AbilityIcon.uasset" SILENT=true
+[2026.02.18-08.46.06:344][153]LogSavePackage: Moving output files for package: /Game/UI/WBP_AbilityIcon
+[2026.02.18-08.46.06:345][153]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_AbilityIcon412A4D524CAFF7AFBBCA70B1522B16BA.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_AbilityIcon.uasset'
+[2026.02.18-08.46.06:354][153]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.450 ms (total: 4.90 sec)
+[2026.02.18-08.46.06:419][153]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.46.06:419][153]LogContentValidation: Enabled validators:
+[2026.02.18-08.46.06:419][153]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.46.06:419][153]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.46.06:419][153]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.46.06:419][153]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.46.06:419][153]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.46.06:419][153]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.46.06:419][153]AssetCheck: /Game/UI/WBP_AbilityIcon Validating asset
+[2026.02.18-08.46.14:779][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.02.18-08.46.15:460][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.46.15:519][662]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_AbilitySet] ([2] browsable assets)...
+[2026.02.18-08.46.15:521][662]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_AbilitySet.WBP_AbilitySet]
+[2026.02.18-08.46.15:521][662]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_AbilitySet]
+[2026.02.18-08.46.15:521][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_AbilitySet" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_AbilitySet.uasset" SILENT=true
+[2026.02.18-08.46.15:534][662]LogSavePackage: Moving output files for package: /Game/UI/WBP_AbilitySet
+[2026.02.18-08.46.15:534][662]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_AbilitySet3E8B12EA404F5802546C27B7513DC1BC.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_AbilitySet.uasset'
+[2026.02.18-08.46.15:543][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.523 ms (total: 4.98 sec)
+[2026.02.18-08.46.15:609][662]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.46.15:609][662]LogContentValidation: Enabled validators:
+[2026.02.18-08.46.15:609][662]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.46.15:609][662]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.46.15:609][662]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.46.15:609][662]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.46.15:609][662]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.46.15:609][662]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.46.15:609][662]AssetCheck: /Game/UI/WBP_AbilitySet Validating asset
+[2026.02.18-08.46.19:458][888]LogWorld: UWorld::CleanupWorld for World_147, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.46.19:458][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.46.19:469][888]LogWorld: UWorld::CleanupWorld for World_146, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.46.19:469][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.46.19:531][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.02.18-08.46.20:268][930]LogWorld: UWorld::CleanupWorld for World_149, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.46.20:268][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.46.20:278][930]LogWorld: UWorld::CleanupWorld for World_148, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.46.20:278][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.46.20:344][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.02.18-08.46.49:372][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.02.18-08.46.50:039][639]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.46.50:102][639]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_CharCreate] ([2] browsable assets)...
+[2026.02.18-08.46.50:109][639]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_CharCreate.WBP_CharCreate]
+[2026.02.18-08.46.50:109][639]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_CharCreate]
+[2026.02.18-08.46.50:109][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_CharCreate" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_CharCreate.uasset" SILENT=true
+[2026.02.18-08.46.50:129][639]LogSavePackage: Moving output files for package: /Game/UI/WBP_CharCreate
+[2026.02.18-08.46.50:129][639]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_CharCreate9114E85E46BA0FDF91F8FFBBAF9C5B61.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_CharCreate.uasset'
+[2026.02.18-08.46.50:138][639]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.800 ms (total: 5.08 sec)
+[2026.02.18-08.46.50:191][639]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.46.50:191][639]LogContentValidation: Enabled validators:
+[2026.02.18-08.46.50:191][639]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.46.50:191][639]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.46.50:191][639]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.46.50:191][639]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.46.50:191][639]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.46.50:191][639]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.46.50:194][639]AssetCheck: /Game/UI/WBP_CharCreate Validating asset
+[2026.02.18-08.47.16:552][201]Cmd: TRANSACTION UNDO
+[2026.02.18-08.47.16:552][201]LogEditorTransaction: Undo Reset to Default
+[2026.02.18-08.47.19:654][364]LogEditorTransaction: Undo Set Vector Property
+[2026.02.18-08.47.40:400][582]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_ClassDescription.WBP_ClassDescription
+[2026.02.18-08.47.40:400][582]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_167
+[2026.02.18-08.47.40:411][582]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_168
+[2026.02.18-08.48.12:284][399]LogEditorTransaction: Undo Wrap Widgets
+[2026.02.18-08.48.47:854][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2026.02.18-08.48.48:589][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.48.48:652][508]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_ClassDescription] ([2] browsable assets)...
+[2026.02.18-08.48.48:654][508]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_ClassDescription.WBP_ClassDescription]
+[2026.02.18-08.48.48:654][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_ClassDescription]
+[2026.02.18-08.48.48:654][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_ClassDescription" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_ClassDescription.uasset" SILENT=true
+[2026.02.18-08.48.48:669][508]LogSavePackage: Moving output files for package: /Game/UI/WBP_ClassDescription
+[2026.02.18-08.48.48:669][508]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_ClassDescription5C6BF12E4CE1270252F70CBCF4C85B25.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_ClassDescription.uasset'
+[2026.02.18-08.48.48:678][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 89.288 ms (total: 5.17 sec)
+[2026.02.18-08.48.48:742][508]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.48.48:743][508]LogContentValidation: Enabled validators:
+[2026.02.18-08.48.48:743][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.48.48:743][508]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.48.48:743][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.48.48:743][508]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.48.48:743][508]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.48.48:743][508]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.48.48:743][508]AssetCheck: /Game/UI/WBP_ClassDescription Validating asset
+[2026.02.18-08.49.03:555][387]LogEditorTransaction: Undo Edit Letter Spacing
+[2026.02.18-08.49.56:797][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.02.18-08.49.57:530][515]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.49.57:594][515]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_ClassDescription] ([2] browsable assets)...
+[2026.02.18-08.49.57:597][515]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_ClassDescription.WBP_ClassDescription]
+[2026.02.18-08.49.57:597][515]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_ClassDescription]
+[2026.02.18-08.49.57:597][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_ClassDescription" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_ClassDescription.uasset" SILENT=true
+[2026.02.18-08.49.57:613][515]LogSavePackage: Moving output files for package: /Game/UI/WBP_ClassDescription
+[2026.02.18-08.49.57:613][515]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_ClassDescription4D6ACE6C4EF9E39FF14125BAF3C36593.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_ClassDescription.uasset'
+[2026.02.18-08.49.57:621][515]LogFileHelpers: InternalPromptForCheckoutAndSave took 91.226 ms (total: 5.26 sec)
+[2026.02.18-08.49.57:684][515]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.49.57:684][515]LogContentValidation: Enabled validators:
+[2026.02.18-08.49.57:684][515]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.49.57:684][515]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.49.57:684][515]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.49.57:684][515]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.49.57:684][515]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.49.57:684][515]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.49.57:685][515]AssetCheck: /Game/UI/WBP_ClassDescription Validating asset
+[2026.02.18-08.49.58:496][562]LogWorld: UWorld::CleanupWorld for World_168, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.49.58:496][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.49.58:506][562]LogWorld: UWorld::CleanupWorld for World_167, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.49.58:506][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.49.58:572][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.02.18-08.49.59:665][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2026.02.18-08.50.00:536][656]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.50.00:582][656]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_CharCreate] ([2] browsable assets)...
+[2026.02.18-08.50.00:587][656]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_CharCreate.WBP_CharCreate]
+[2026.02.18-08.50.00:587][656]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_CharCreate]
+[2026.02.18-08.50.00:587][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_CharCreate" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_CharCreate.uasset" SILENT=true
+[2026.02.18-08.50.00:605][656]LogSavePackage: Moving output files for package: /Game/UI/WBP_CharCreate
+[2026.02.18-08.50.00:606][656]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_CharCreateC82C82EF4AA89639139111929A87B122.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_CharCreate.uasset'
+[2026.02.18-08.50.00:616][656]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.022 ms (total: 5.34 sec)
+[2026.02.18-08.50.00:673][656]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.50.00:674][656]LogContentValidation: Enabled validators:
+[2026.02.18-08.50.00:674][656]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.50.00:674][656]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.50.00:674][656]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.50.00:674][656]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.50.00:674][656]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.50.00:674][656]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.50.00:677][656]AssetCheck: /Game/UI/WBP_CharCreate Validating asset
+[2026.02.18-08.50.05:018][895]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WBP_ClassDescription.WBP_ClassDescription
+[2026.02.18-08.50.05:018][895]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_175
+[2026.02.18-08.50.05:028][895]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_176
+[2026.02.18-08.50.13:502][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.02.18-08.50.14:144][374]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.50.14:207][374]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_ClassDescription] ([2] browsable assets)...
+[2026.02.18-08.50.14:209][374]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_ClassDescription.WBP_ClassDescription]
+[2026.02.18-08.50.14:209][374]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_ClassDescription]
+[2026.02.18-08.50.14:209][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_ClassDescription" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_ClassDescription.uasset" SILENT=true
+[2026.02.18-08.50.14:222][374]LogSavePackage: Moving output files for package: /Game/UI/WBP_ClassDescription
+[2026.02.18-08.50.14:222][374]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_ClassDescriptionD0F849234735D5DF85907BA840377EAA.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_ClassDescription.uasset'
+[2026.02.18-08.50.14:232][374]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.109 ms (total: 5.43 sec)
+[2026.02.18-08.50.14:287][374]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.50.14:287][374]LogContentValidation: Enabled validators:
+[2026.02.18-08.50.14:287][374]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.50.14:287][374]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.50.14:287][374]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.50.14:287][374]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.50.14:287][374]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.50.14:287][374]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.50.14:288][374]AssetCheck: /Game/UI/WBP_ClassDescription Validating asset
+[2026.02.18-08.50.26:452][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.02.18-08.50.27:124][119]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.50.27:180][119]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_CharCreate] ([2] browsable assets)...
+[2026.02.18-08.50.27:186][119]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_CharCreate.WBP_CharCreate]
+[2026.02.18-08.50.27:186][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_CharCreate]
+[2026.02.18-08.50.27:186][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_CharCreate" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_CharCreate.uasset" SILENT=true
+[2026.02.18-08.50.27:204][119]LogSavePackage: Moving output files for package: /Game/UI/WBP_CharCreate
+[2026.02.18-08.50.27:204][119]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_CharCreateEDD8D61347C4F4D3B9980AA5CEDDE9A4.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_CharCreate.uasset'
+[2026.02.18-08.50.27:212][119]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.123 ms (total: 5.51 sec)
+[2026.02.18-08.50.27:278][119]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.50.27:278][119]LogContentValidation: Enabled validators:
+[2026.02.18-08.50.27:278][119]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.50.27:278][119]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.50.27:278][119]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.50.27:278][119]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.50.27:278][119]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.50.27:278][119]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.50.27:281][119]AssetCheck: /Game/UI/WBP_CharCreate Validating asset
+[2026.02.18-08.50.28:862][208]LogWorld: UWorld::CleanupWorld for World_176, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.50.28:862][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.50.28:872][208]LogWorld: UWorld::CleanupWorld for World_175, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-08.50.28:872][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-08.50.28:943][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2026.02.18-08.50.31:825][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.02.18-08.50.32:395][398]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-08.50.32:454][398]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WBP_CharCreate] ([2] browsable assets)...
+[2026.02.18-08.50.32:460][398]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WBP_CharCreate.WBP_CharCreate]
+[2026.02.18-08.50.32:460][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WBP_CharCreate]
+[2026.02.18-08.50.32:460][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WBP_CharCreate" FILE="../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_CharCreate.uasset" SILENT=true
+[2026.02.18-08.50.32:478][398]LogSavePackage: Moving output files for package: /Game/UI/WBP_CharCreate
+[2026.02.18-08.50.32:478][398]LogSavePackage: Moving '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Saved/WBP_CharCreateC54FB5B54F32E666F845EDAC52AF192D.tmp' to '../../../../../../Users/val/Desktop/Projects/Game Dev/ue5-questis/CharCreate/Content/UI/WBP_CharCreate.uasset'
+[2026.02.18-08.50.32:488][398]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.796 ms (total: 5.61 sec)
+[2026.02.18-08.50.32:553][398]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-08.50.32:553][398]LogContentValidation: Enabled validators:
+[2026.02.18-08.50.32:553][398]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-08.50.32:553][398]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-08.50.32:553][398]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-08.50.32:553][398]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-08.50.32:553][398]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-08.50.32:553][398]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-08.50.32:555][398]AssetCheck: /Game/UI/WBP_CharCreate Validating asset
+[2026.02.18-08.50.35:352][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
